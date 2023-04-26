@@ -1,0 +1,53 @@
+package.json -> npm init -y
+tsconfig.json -> tsc --init
+npm install @types/node express @types/express ts-node typescript 
+npm install jsonfile @types/jsonfile
+npm install nodemon 
+npm install @types/dotenv dotenv
+npm install @types/express-validator express-validator
+npm install @types/mongoose mongoose
+npm install express-validator @types/express-validator mongoose @types/mongoose dotenv @types/dotenv
+npm install 
+npm install bcryptjs @types/bcryptjs 
+npm install gravatar @types/gravatar 
+npm install jsonwebtoken @types/jsonwebtoken
+npm install @types/multer multer
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+npm 
+package.json -> npm init -y
+tsconfig.json -> tsc --init
+npm install @types/node express @types/express ts-node typescript
+
+
+ http://127.0.0.1:8080      -> home  / defualt server.ts(main)
+
+ userRouter
+ http://127.0.0.1:8080/user               -> home  / defualt server.ts(main)
+ http://127.0.0.1:8080/user/register      -> home  / defualt server.ts(main)
+
+
+E:\Node_62\JSON Placeholder>npm install jsonfile @types/jsonfile  -> json no path install krva mate
+
+--------------------------------------------------------------------------------------------------------------------------------
+npm install nodemon 
+package.json ma jai ne chake krvu and 
+"scripts": {
+    "start": "nodemon server.ts", }
+add krvu 
+
+npm install @types/dotenv dotenv
+
+npm install @types/express-validator express-validator
+
+npm install @types/mongoose mongoose
+
+npm install express-validator @types/express-validator mongoose @types/mongoose dotenv @types/dotenv
+npm install 
+bcryptjs @types/bcryptjs 
+npm install gravatar @types/gravatar 
+npm install jsonwebtoken @types/jsonwebtoken
+
